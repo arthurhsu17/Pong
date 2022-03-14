@@ -1,4 +1,4 @@
-# Pong
+# Pong Computer Game
 Pong is a classic childhood game of mine, having played it on first windows PC that I've ever owned. The game is so simple yet gave me such genuine memories that are indelible to my rudinentary love for games. 
 
 ![PongGIF](https://user-images.githubusercontent.com/71420919/158263254-26a752a7-9e86-4699-bf0e-3156fc13340e.gif)
