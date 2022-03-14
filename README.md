@@ -5,7 +5,11 @@ Pong is a classic childhood game of mine, having played it on first windows PC t
 
 ## How to play
 
-It is simple, there are two players and the objective is the get it past the others block (paddle), it is supposed to replicate a game of ping pong. Once the opponent misses the ball, you get a point. The ball bounces off the block when it comes in contact.
+It is simple, there are two players and the objective is the get it past the others block (paddle), it is supposed to replicate a game of ping pong. Once the opponent misses the ball, you get a point. The ball bounces off the block when it comes in contact. 
+
+This is a two player game: 
+The player on the left uses the 'W' key to move up and the 'S' key to move down.
+The player on the right uses the 'Up' key to move up and the 'Down' key to move down.
 
 ## Gameplay
 
