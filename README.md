@@ -12,4 +12,5 @@ It is simple, there are two players and the objective is the get it past the oth
 
 <img width="782" alt="Screenshot 2022-03-14 at 9 10 03 PM" src="https://user-images.githubusercontent.com/71420919/158262934-9ac883d5-c874-42c1-baa5-79fd7c94798b.png">
 <hr>
+<hr>
 <img width="781" alt="Screenshot 2022-03-14 at 9 10 14 PM" src="https://user-images.githubusercontent.com/71420919/158262930-f5b02c12-84c9-4e16-9e26-20ad4a67fa32.png">
